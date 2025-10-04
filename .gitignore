@@ -1,0 +1,7 @@
+# Dependencies
+/node_modules
+/dist
+
+# Deployment Cache
+.cache/
+gh-pages/
